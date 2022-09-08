@@ -19,7 +19,7 @@ public class percobaan1 {
         
     }
     public static void main(String[] args) {
-        System.out.println(faktorialRekursif(5));
+        System.out.println(faktorialRekursif(10));
         System.out.println(faktorialIteratif(5));
     }
 }
